@@ -31,7 +31,7 @@ You are good to go live 🔥
 👤 **DAMBI STUART**
 
 - GitHub: [@codedbystuart](https://github.com/codedbystuart)
-- Twitter: [@twitterhandle](https://twitter.com/stuartdambi)
+- Twitter: [@DambiStuart](https://twitter.com/DambiStuart)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/StuartDambi)
 
 ## 🤝 Contributing
